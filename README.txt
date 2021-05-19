@@ -18,7 +18,7 @@ Instructions for execution:
 
 
     2. Once installed, un-tar and copy the files to a directory. The package consists of the server.go
-       file and a directory containing the same test files that were used in Lab 2. These files
+       file and a directory containing the some test files. These files
        need to be kept in the directory named "files". Navigate to this directory with the server.go file
        and the 'files' directory with a command prompt or terminal window.
     
